@@ -1,4 +1,4 @@
-
+/chatbot
 # Initialize OpenAI client with OpenRouter config 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
 client = OpenAI(
     base_url="https://openrouter.ai/api/v1",
